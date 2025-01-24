@@ -1,2 +1,2 @@
 # git598-setup
-## Author: Alicia Green
+## Author: Alicia Green Crider
